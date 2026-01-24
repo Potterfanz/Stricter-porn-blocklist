@@ -1,0 +1,14 @@
+# Title: Stricter Porn Block List
+# Description: Adult content domains
+# Homepage: https://github.com/blocklistproject/Lists
+# License: MIT
+# Last modified: 01/24/2026
+# Format: hosts
+# Entries: 1
+# URL: 
+#
+# This list is maintained by Toby Sundstrom
+# https://github.com/blocklistproject/Lists
+#
+
+0.0.0.0 redgifs.com
