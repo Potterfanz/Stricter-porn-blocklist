@@ -8,7 +8,11 @@
 # URL: 
 #
 # This list is maintained by Toby Sundstrom
-# https://github.com/blocklistproject/Lists
+# https://github.com/Potterfanz/Stricter-porn-blocklist
 #
 
 0.0.0.0 ersties.com
+0.0.0.0 soundgasm.net
+0.0.0.0 whyp.it
+0.0.0.0 hotaudio.net
+0.0.0.0 audiochan.com
