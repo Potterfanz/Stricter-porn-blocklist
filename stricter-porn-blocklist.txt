@@ -32,3 +32,4 @@
 0.0.0.0 manhwa68.com
 0.0.0.0 hiperdex.com
 0.0.0.0 manhwa.club
+0.0.0.0 toongod.org
