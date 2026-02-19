@@ -12,7 +12,7 @@
 #
 
 0.0.0.0 ersties.com
-0.0.0.0 *.soundgasm.net
+0.0.0.0 ||soundgasm.net^
 0.0.0.0 whyp.it
 0.0.0.0 hotaudio.net
 0.0.0.0 audiochan.com
@@ -32,4 +32,4 @@
 0.0.0.0 manhwa68.com
 0.0.0.0 hiperdex.com
 0.0.0.0 manhwa.club
-0.0.0.0 *.toongod.org
+0.0.0.0 ||toongod.org^
